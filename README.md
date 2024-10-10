@@ -2,6 +2,8 @@ Tic-Tac-Toe Game 🎮 :
 
 - A classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project allows two players to compete by marking X's and O's on a 3x3 grid.
 
+![screenshot](https://github.com/user-attachments/assets/ca8291c6-5c22-42fe-9975-e186b83580bb)
+
 Features ✨ :
 
 1. 👥 Two-player gameplay
